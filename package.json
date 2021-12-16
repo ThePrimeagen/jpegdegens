@@ -8,10 +8,15 @@
     "@nomiclabs/hardhat-ethers": "^2.0.3",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
     "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.5.2",
     "hardhat": "^2.8.0",
-    "ts-node": "^10.4.0"
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "^9.2.6",
+    "ts-node": "^10.4.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
   },
   "dependencies": {
     "@types/chai": "^4.3.0",
